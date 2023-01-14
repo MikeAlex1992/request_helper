@@ -5,7 +5,7 @@
 
 1) **MapList** [no arguments] --- /api/v1/maps
 
-2) *8MapConfig** [mapId] --- /api/v1/maps/mapId
+2) **MapConfig** [mapId] --- /api/v1/maps/mapId
 
 3) **AddPlayer** [name mapId] --- /api/v1/game/join
 
